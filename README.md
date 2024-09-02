@@ -41,3 +41,17 @@ My name is **Muth Boravy**, was born in Battambang province, Cambodia. Currently
   - R: for data analysis, visulation
   - Latex: for documentation
 
+## Research Interest
+* Load follow for Large-Scale and Small-Scale Nuclear Reactor.
+* Burnable absorber rod design for long-term opeation for SMR and commercial nuclear reactor.
+* Advanced sheilding material for neutron and gamma-ray radiatio for dry-cask storage system.
+* Optimization methods to determine loading pattern of SMR and commercial nuclear reactor.
+* Criticality depletion calculation code development.
+
+## Jurnal papers and conference papers:
+### Jurnal paper (2021)
+J.K., Kwak, **Boravy Muth** el ta., 2021. “Shielding Analysis of Metal Hydride-based Materials for Both Neutron and Gamma Rays Using Monte Carlo Simulation”. Korean J. Met. Material, Vol.59 (12): 921-925. [Link to the paper](http://kjmm.org/journal/view.php?doi=10.3365/KJMM.2021.59.12.921)
+2. **Boravy Muth** el ta., 2021. “A Study on Reusable Metal Component as Burnable Absorber through Monte Carlo Depletion Analysis”. JNFCWT, Vol. 18 No.4. [Link to the paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002672361)
+### Jurnal paper (2020)
+3. **Boravy Muth**, Woo Sik Jung, Jeong Kwon Kwak, Sun Jae Kim and Chang Je Park., 2020. “A radiation shielding sensitivity analysis based on metal hydride multilayers“. Journal of Radiological Protection, Vol 40, Number 3. [Link to the paper](https://iopscience.iop.org/article/10.1088/1361-6498/ab9a08)
+4. Saed Alrawash, **Muth Boravy**, Seung Uk Yoo, Hyuk Han, Soon Young Kim, Moonghu Park, Chang Je Park., 2020. “Sensitivity study on criticality safety analysis of multiple misloading within the spent fuel storage cask“. Annals of Nuclear Energy, Vol 144, 107516. [Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S0306454920302140?via%3Dihub)
