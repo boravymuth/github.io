@@ -50,7 +50,7 @@ My name is **Muth Boravy**, was born in Battambang province, Cambodia. Currently
 
 ## Jurnal papers and conference papers:
 ### Jurnal paper (2021)
-J.K., Kwak, **Boravy Muth** el ta., 2021. “Shielding Analysis of Metal Hydride-based Materials for Both Neutron and Gamma Rays Using Monte Carlo Simulation”. Korean J. Met. Material, Vol.59 (12): 921-925. [Link to the paper](http://kjmm.org/journal/view.php?doi=10.3365/KJMM.2021.59.12.921)
+1. J.K., Kwak, **Boravy Muth** el ta., 2021. “Shielding Analysis of Metal Hydride-based Materials for Both Neutron and Gamma Rays Using Monte Carlo Simulation”. Korean J. Met. Material, Vol.59 (12): 921-925. [Link to the paper](http://kjmm.org/journal/view.php?doi=10.3365/KJMM.2021.59.12.921)
 2. **Boravy Muth** el ta., 2021. “A Study on Reusable Metal Component as Burnable Absorber through Monte Carlo Depletion Analysis”. JNFCWT, Vol. 18 No.4. [Link to the paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002672361)
 ### Jurnal paper (2020)
 3. **Boravy Muth**, Woo Sik Jung, Jeong Kwon Kwak, Sun Jae Kim and Chang Je Park., 2020. “A radiation shielding sensitivity analysis based on metal hydride multilayers“. Journal of Radiological Protection, Vol 40, Number 3. [Link to the paper](https://iopscience.iop.org/article/10.1088/1361-6498/ab9a08)
