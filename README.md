@@ -22,7 +22,7 @@ My name is **Muth Boravy**, was born in Battambang province, Cambodia. Currently
   - Monte Carlo simulation using MCNP
   - Nuclear reactor theory
 
-## Projects
+## Projects (During Master and PhD)
 >* Design multilayer shielding configuration to shield neutron and gamma radiation simultaneously.
 >* Applying multiayer sheidling configuration using metal hydride coupled with heavy metal.
 >* APR-1400 advanced reactor core modeling, simulation and analysis by adopting innovation SLOBA burnable absorber material.
