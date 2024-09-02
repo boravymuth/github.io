@@ -18,7 +18,7 @@ My name is **Muth Boravy**, was born in Battambang province, Cambodia. Currently
   - Statistics
 * Teaching assistant: Sejong University during PhD study
   - Advanced engineering mathematics
-  - Nuclear analysis using MATLAB
+  - Numerical analysis using MATLAB
   - Monte Carlo simulation using MCNP
   - Nuclear reactor theory
 
