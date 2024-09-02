@@ -1,5 +1,5 @@
 # About Me
-My name is **Muth Boravy**, was born in Battambang province, Cambodia. Currently I work at [Institute of Technology of Cambodia (ITC)](https://itc.edu.kh/about-institute-of-technology-of-cambodia/) in Phnom Penh, Cambodia, as mathematics lecturer at Department of Applied Mathematics and Statistics. 
+My name is **Muth Boravy**, was born in Battambang province, Cambodia. Currently I work at [Institute of Technology of Cambodia (ITC)](https://itc.edu.kh/about-institute-of-technology-of-cambodia/) in Phnom Penh, Cambodia, as part-time  mathematics lecturer at Department of Applied Mathematics and Statistics. 
 
 ## Education
 > * Bachelor degree: Nuclear Engineering (2009-2013) at National University of Battambang, Cambodia.
@@ -50,11 +50,10 @@ My name is **Muth Boravy**, was born in Battambang province, Cambodia. Currently
 
 ## Jurnal papers and conference papers:
 ### Jurnal paper (2021)
-1. J.K., Kwak, **Boravy Muth** el ta., 2021. _**Shielding Analysis of Metal Hydride-based Materials for Both Neutron and Gamma Rays Using Monte Carlo Simulation**_. Korean J. Met. Material, Vol.59 (12): 921-925. [Link to the paper](http://kjmm.org/journal/view.php?doi=10.3365/KJMM.2021.59.12.921)
-2. **Boravy Muth** el ta., 2021. _**A Study on Reusable Metal Component as Burnable Absorber through Monte Carlo Depletion Analysis**_. JNFCWT, Vol. 18 No.4. [Link to the paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002672361)
-### Jurnal paper (2020)
-3. **Boravy Muth**, Woo Sik Jung, Jeong Kwon Kwak, Sun Jae Kim and Chang Je Park., 2020. _**A radiation shielding sensitivity analysis based on metal hydride multilayers**_. Journal of Radiological Protection, Vol 40, Number 3. [Link to the paper](https://iopscience.iop.org/article/10.1088/1361-6498/ab9a08)
-4. Saed Alrawash, **Muth Boravy**, Seung Uk Yoo, Hyuk Han, Soon Young Kim, Moonghu Park, Chang Je Park., 2020. _**Sensitivity study on criticality safety analysis of multiple misloading within the spent fuel storage cask**_. Annals of Nuclear Energy, Vol 144, 107516. [Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S0306454920302140?via%3Dihub)
+1. J.K., Kwak, **Boravy Muth** el ta., 2021. _Shielding Analysis of Metal Hydride-based Materials for Both Neutron and Gamma Rays Using Monte Carlo Simulation_. Korean J. Met. Material, Vol.59 (12): 921-925. [Link to the paper](http://kjmm.org/journal/view.php?doi=10.3365/KJMM.2021.59.12.921)
+2. **Boravy Muth** el ta., 2021. _A Study on Reusable Metal Component as Burnable Absorber through Monte Carlo Depletion Analysis_. JNFCWT, Vol. 18 No.4. [Link to the paper](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002672361)
+3. **Boravy Muth**, Woo Sik Jung, Jeong Kwon Kwak, Sun Jae Kim and Chang Je Park., 2020. _A radiation shielding sensitivity analysis based on metal hydride multilayers_. Journal of Radiological Protection, Vol 40, Number 3. [Link to the paper](https://iopscience.iop.org/article/10.1088/1361-6498/ab9a08)
+4. Saed Alrawash, **Muth Boravy**, Seung Uk Yoo, Hyuk Han, Soon Young Kim, Moonghu Park, Chang Je Park., 2020. _Sensitivity study on criticality safety analysis of multiple misloading within the spent fuel storage cask_. Annals of Nuclear Energy, Vol 144, 107516. [Link to the paper](https://www.sciencedirect.com/science/article/abs/pii/S0306454920302140?via%3Dihub)
 
 ### Conference papers:
 1. **Boravy Muth**, Chang Je Park., 2019. _Multilayer sensitivity analysis for innovative shielding material_. Transactions of the Korean Nuclear Society Spring Meeting, Jeju, South Korea. [Link to the paper](https://www.researchgate.net/publication/340807537_Multilayer_sensitivity_analysis_for_innovative_shielding_material)
